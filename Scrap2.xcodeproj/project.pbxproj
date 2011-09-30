@@ -465,59 +465,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
-			isa = PBXGroup;
-			children = (
-				080E96DDFE201D6D7F000001 /* Classes */,
-				29B97315FDCFA39411CA2CEA /* Other Sources */,
-				29B97317FDCFA39411CA2CEA /* Resources */,
-				29B97323FDCFA39411CA2CEA /* Frameworks */,
-				19C28FACFE9D520D11CA2CBB /* Products */,
-				1F37F1F113BD21C600329AE3 /* ContactPage.xib */,
-				1F601C5D13B9335300BC2724 /* DocumentDisplayView.xib */,
-				1F2BB0FF13B4ED570020BB56 /* TableHeaderView.xib */,
-				1F35714013AFAC8800168B92 /* BlackCoverView.xib */,
-				1FEEC25D13B27F88000C3544 /* FullContactViewController.xib */,
-				1F35713B13AF9B1E00168B92 /* AddFileRoot.xib */,
-				1FAE6B0C138C9BEE008577DA /* LinksTable.xib */,
-				1FAB230F1391992A0053B722 /* WorkGroupTblView.xib */,
-				1FAE6B07138C699F008577DA /* DocumentsListView.xib */,
-				1FAE6AF5138C2096008577DA /* EventDetailLandGray.xib */,
-				1FAE6AE4138B24FF008577DA /* ContractView.xib */,
-				1F2E2C5E138AE55400543A3C /* DocImageView.xib */,
-				1F2E2C47138ACD4E00543A3C /* LegendView.xib */,
-				1F4C2F3C137B49FF00B66C0B /* ContactQuickViewLand.xib */,
-				1F4C2F37137B3A1700B66C0B /* ContactQuickView.xib */,
-				2804203B108E9BAB000629CD /* DetailView.xib */,
-				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
-				1FAE0F521365B14C00047C6D /* EventDetail.xib */,
-				1FD8C8E5136744F200E8392D /* popoverViewPeople.xib */,
-				1FAE108F1366036800047C6D /* EventDetailProjLand.xib */,
-				1FD8C8D013673D5800E8392D /* personPop.xib */,
-				1FD8C9DF1368C73100E8392D /* DateFollowPopView.xib */,
-				1FD8CAE2136911E200E8392D /* ActiveEventPort.xib */,
-				1FD8CC1D1369E5D000E8392D /* ActiveEventLand.xib */,
-				1FD8CC2D1369EF5E00E8392D /* RecentEventPort.xib */,
-				1FD8CC331369F35600E8392D /* RecentEventLand.xib */,
-				1FD8CCA7136A22B400E8392D /* DueEventPort.xib */,
-				1FD8CCA9136A22D000E8392D /* DueEventLand.xib */,
-				1FB5CF4A13783CC000DD2F17 /* ContactPopView.xib */,
-				1FB5CFBD13785E0700DD2F17 /* OverlayView.xib */,
-			);
-			name = CustomTemplate;
-			sourceTree = "<group>";
-		};
-		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
-			isa = PBXGroup;
-			children = (
-				1F4C2F2B137AF00800B66C0B /* BlueStripe.png */,
-				28A0AAE50D9B0CCF005BE974 /* Scrap2_Prefix.pch */,
-				29B97316FDCFA39411CA2CEA /* main.m */,
-			);
-			name = "Other Sources";
-			sourceTree = "<group>";
-		};
-		29B97317FDCFA39411CA2CEA /* Resources */ = {
+		1F5E95D6143657E6009D79FD /* Images */ = {
 			isa = PBXGroup;
 			children = (
 				1F4FDF5F13DA61A900C5BB49 /* greyArrow.png */,
@@ -644,6 +592,66 @@
 				1FDFC05213DF568A004BDE44 /* 45x13_riseline.png */,
 				1F4FDF6513DA6A3D00C5BB49 /* LighterEnvelope.png */,
 				1F4FDF6713DA6CB000C5BB49 /* ShortPanel.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				1F37F1F113BD21C600329AE3 /* ContactPage.xib */,
+				1F601C5D13B9335300BC2724 /* DocumentDisplayView.xib */,
+				1F2BB0FF13B4ED570020BB56 /* TableHeaderView.xib */,
+				1F35714013AFAC8800168B92 /* BlackCoverView.xib */,
+				1FEEC25D13B27F88000C3544 /* FullContactViewController.xib */,
+				1F35713B13AF9B1E00168B92 /* AddFileRoot.xib */,
+				1FAE6B0C138C9BEE008577DA /* LinksTable.xib */,
+				1FAB230F1391992A0053B722 /* WorkGroupTblView.xib */,
+				1FAE6B07138C699F008577DA /* DocumentsListView.xib */,
+				1FAE6AF5138C2096008577DA /* EventDetailLandGray.xib */,
+				1FAE6AE4138B24FF008577DA /* ContractView.xib */,
+				1F2E2C5E138AE55400543A3C /* DocImageView.xib */,
+				1F2E2C47138ACD4E00543A3C /* LegendView.xib */,
+				1F4C2F3C137B49FF00B66C0B /* ContactQuickViewLand.xib */,
+				1F4C2F37137B3A1700B66C0B /* ContactQuickView.xib */,
+				2804203B108E9BAB000629CD /* DetailView.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				1FAE0F521365B14C00047C6D /* EventDetail.xib */,
+				1FD8C8E5136744F200E8392D /* popoverViewPeople.xib */,
+				1FAE108F1366036800047C6D /* EventDetailProjLand.xib */,
+				1FD8C8D013673D5800E8392D /* personPop.xib */,
+				1FD8C9DF1368C73100E8392D /* DateFollowPopView.xib */,
+				1FD8CAE2136911E200E8392D /* ActiveEventPort.xib */,
+				1FD8CC1D1369E5D000E8392D /* ActiveEventLand.xib */,
+				1FD8CC2D1369EF5E00E8392D /* RecentEventPort.xib */,
+				1FD8CC331369F35600E8392D /* RecentEventLand.xib */,
+				1FD8CCA7136A22B400E8392D /* DueEventPort.xib */,
+				1FD8CCA9136A22D000E8392D /* DueEventLand.xib */,
+				1FB5CF4A13783CC000DD2F17 /* ContactPopView.xib */,
+				1FB5CFBD13785E0700DD2F17 /* OverlayView.xib */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				1F4C2F2B137AF00800B66C0B /* BlueStripe.png */,
+				28A0AAE50D9B0CCF005BE974 /* Scrap2_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1F5E95D6143657E6009D79FD /* Images */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
