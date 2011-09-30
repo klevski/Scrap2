@@ -1,0 +1,5 @@
+/Users/kelseylevine/Desktop/Scrap2/Classes/DatePopController.m: In function '-[DatePopController viewDidLoad]':
+/Users/kelseylevine/Desktop/Scrap2/Classes/DatePopController.m:15: warning: 'UIView' may not respond to '-viewDidLoad'
+/Users/kelseylevine/Desktop/Scrap2/Classes/DatePopController.m:15: warning: (Messages without a matching method signature
+/Users/kelseylevine/Desktop/Scrap2/Classes/DatePopController.m:15: warning: will be assumed to return 'id' and accept
+/Users/kelseylevine/Desktop/Scrap2/Classes/DatePopController.m:15: warning: '...' as arguments.)

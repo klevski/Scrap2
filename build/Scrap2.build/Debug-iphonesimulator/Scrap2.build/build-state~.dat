@@ -1,0 +1,295 @@
+TScrap2
+v7
+r0
+t325294034.797308
+cCheck dependencies
+cProcessInfoPlistFile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Info.plist Scrap2-Info.plist
+cCompileXIB /Users/kelseylevine/Desktop/Scrap2/MainWindow.xib
+cCompileXIB /Users/kelseylevine/Desktop/Scrap2/DetailView.xib
+cProcessPCH /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch.gch Scrap2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/main.o /Users/kelseylevine/Desktop/Scrap2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2AppDelegate.o /Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/RootViewController.o /Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/DetailViewController.o /Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2 normal i386
+cGenerateDSYMFile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app.dSYM /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2
+cTouch /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.h
+c000000004DB33909000000000000025E
+t1303591177
+s606
+i<UIKit/UIKit.h>
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m
+c000000004DB339090000000000000DBF
+t1303591177
+s3519
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.h
+c000000004DB33909000000000000018C
+t1303591177
+s396
+i<UIKit/UIKit.h>
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m
+c000000004DB3390900000000000010C2
+t1303591177
+s4290
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.h
+c000000004DB33909000000000000030E
+t1303591177
+s782
+i<UIKit/UIKit.h>
+
+N/Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m
+c000000004DB3390900000000000007BD
+t1303591177
+s1981
+i"Scrap2AppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/kelseylevine/Desktop/Scrap2/DetailView.xib
+c000000004DB339090000000000005001
+t1303591177
+s20481
+
+N/Users/kelseylevine/Desktop/Scrap2/MainWindow.xib
+c000000004DB3390900000000000069C4
+t1303591177
+s27076
+
+N/Users/kelseylevine/Desktop/Scrap2/Scrap2_Prefix.pch
+c000000004DB33909000000000000013E
+t1303591177
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app
+t1303601234
+s238
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app.dSYM
+t1303601234
+s102
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/DetailView.nib
+t1303601232
+s1421
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Info.plist
+t1303601230
+s794
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/MainWindow.nib
+t1303601232
+s1933
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/PkgInfo
+t1303601230
+s8
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2
+t1303601234
+s27188
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/DetailViewController.o
+t1303601234
+s46392
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/RootViewController.o
+t1303601234
+s42648
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2.LinkFileList
+c000000004DB3604E00000000000001FB
+t1303601230
+s507
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2AppDelegate.o
+t1303601234
+s49080
+
+N/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/main.o
+t1303601234
+s6296
+
+N/Users/kelseylevine/Desktop/Scrap2/main.m
+c000000004DB339090000000000000168
+t1303591177
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch.gch
+t1303601233
+s13825936
+
+NScrap2-Info.plist
+c000000004DB3390900000000000004D6
+t1303591177
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325294030#325294030#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/DetailViewController.o /Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325294034.041117
+e325294034.248918
+r1
+xCompileC
+xbuild/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/DetailViewController.o
+x/Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m325294034#325294034#0(0"0(0#0#65"/Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m8616624448#1931"    cd /Users/kelseylevine/Desktop/Scrap2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-generated-files.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-own-target-headers.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-all-target-headers.hmap -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-project-headers.hmap -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -I/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/include -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources/i386 -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources -include /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch -c /Users/kelseylevine/Desktop/Scrap2/Classes/DetailViewController.m -o /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/RootViewController.o /Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325294034.009086
+e325294034.102844
+r1
+xCompileC
+xbuild/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/RootViewController.o
+x/Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m325294034#325294034#0(0"0(0#0#63"/Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m8619186592#1927"    cd /Users/kelseylevine/Desktop/Scrap2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-generated-files.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-own-target-headers.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-all-target-headers.hmap -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-project-headers.hmap -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -I/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/include -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources/i386 -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources -include /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch -c /Users/kelseylevine/Desktop/Scrap2/Classes/RootViewController.m -o /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2AppDelegate.o /Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325294033.948284
+e325294034.041014
+r1
+xCompileC
+xbuild/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2AppDelegate.o
+x/Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m325294033#325294034#0(0"0(0#0#62"/Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m8619533600#1925"    cd /Users/kelseylevine/Desktop/Scrap2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-generated-files.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-own-target-headers.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-all-target-headers.hmap -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-project-headers.hmap -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -I/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/include -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources/i386 -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources -include /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch -c /Users/kelseylevine/Desktop/Scrap2/Classes/Scrap2AppDelegate.m -o /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2AppDelegate.o0#
+
+CCompileC build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/main.o /Users/kelseylevine/Desktop/Scrap2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325294033.946452
+e325294034.008978
+r1
+xCompileC
+xbuild/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/main.o
+x/Users/kelseylevine/Desktop/Scrap2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/kelseylevine/Desktop/Scrap2/main.m325294033#325294034#0(0"0(0#0#41"/Users/kelseylevine/Desktop/Scrap2/main.m8620004096#1891"    cd /Users/kelseylevine/Desktop/Scrap2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-generated-files.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-own-target-headers.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-all-target-headers.hmap -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-project-headers.hmap -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -I/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/include -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources/i386 -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources -include /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch -c /Users/kelseylevine/Desktop/Scrap2/main.m -o /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kelseylevine/Desktop/Scrap2/DetailView.xib
+s325294030.869270
+e325294032.817916
+r1
+xCompileXIB
+x/Users/kelseylevine/Desktop/Scrap2/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib325294030#325294032#0(0"0(0#0#49"/Users/kelseylevine/Desktop/Scrap2/DetailView.xib8619210336#557"    cd /Users/kelseylevine/Desktop/Scrap2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/DetailView.nib /Users/kelseylevine/Desktop/Scrap2/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/kelseylevine/Desktop/Scrap2/MainWindow.xib
+s325294030.868327
+e325294032.817682
+r1
+xCompileXIB
+x/Users/kelseylevine/Desktop/Scrap2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325294030#325294032#0(0"0(0#0#49"/Users/kelseylevine/Desktop/Scrap2/MainWindow.xib8619664896#557"    cd /Users/kelseylevine/Desktop/Scrap2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/MainWindow.nib /Users/kelseylevine/Desktop/Scrap2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app.dSYM /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2
+s325294034.770265
+e325294034.794184
+r1
+xGenerateDSYMFile
+x/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app.dSYM
+x/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Scrap2.app.dSYM build/Debug-iphonesimulator/Scrap2.app/Scrap2325294034#325294034#0(0"0(0#0#80"/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap28619347360#368"    cd /Users/kelseylevine/Desktop/Scrap2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2 -o /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app.dSYM0#
+
+CLd /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2 normal i386
+s325294034.249008
+e325294034.770021
+r1
+xLd
+x/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2
+xnormal
+xi386
+lSLF07#2@85"Link /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap2325294034#325294034#0(0"0(0#0#0"8612599456#875"    cd /Users/kelseylevine/Desktop/Scrap2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -filelist /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Objects-normal/i386/Scrap2.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Scrap20#
+
+CProcessInfoPlistFile /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Info.plist Scrap2-Info.plist
+s325294030.814702
+e325294030.868226
+r1
+xProcessInfoPlistFile
+x/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Info.plist
+xScrap2-Info.plist
+lSLF07#2@25"Process Scrap2-Info.plist325294030#325294030#0(0"0(0#0#52"/Users/kelseylevine/Desktop/Scrap2/Scrap2-Info.plist29555366482477168#464"    cd /Users/kelseylevine/Desktop/Scrap2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Scrap2-Info.plist -genpkginfo /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app/Info.plist0#
+
+CProcessPCH /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch.gch Scrap2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325294032.818101
+e325294033.946204
+r1
+xProcessPCH
+x/var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch.gch
+xScrap2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Scrap2_Prefix.pch325294032#325294033#0(0"0(0#0#52"/Users/kelseylevine/Desktop/Scrap2/Scrap2_Prefix.pch8619025856#1788"    cd /Users/kelseylevine/Desktop/Scrap2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-generated-files.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-own-target-headers.hmap -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-all-target-headers.hmap -iquote /Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/Scrap2-project-headers.hmap -F/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator -I/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/include -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources/i386 -I/Users/kelseylevine/Desktop/Scrap2/build/Scrap2.build/Debug-iphonesimulator/Scrap2.build/DerivedSources -c /Users/kelseylevine/Desktop/Scrap2/Scrap2_Prefix.pch -o /var/folders/51/51lF8ncFG2CEXHIDcs16JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrap2_Prefix-evhiuyinukyxnweosntuohcafjev/Scrap2_Prefix.pch.gch0#
+
+CTouch /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app
+s325294034.794283
+e325294034.797251
+r1
+xTouch
+x/Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app
+lSLF07#2@79"Touch /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app325294034#325294034#0(0"0(0#0#0"8619083776#269"    cd /Users/kelseylevine/Desktop/Scrap2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kelseylevine/Desktop/Scrap2/build/Debug-iphonesimulator/Scrap2.app0#
+
