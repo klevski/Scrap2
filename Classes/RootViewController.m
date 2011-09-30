@@ -36,7 +36,7 @@
    
     ////************************************
     
-    
+    NSLog(@"elementsarray: %@", elementsArray);
     appDelegate = (Scrap2AppDelegate *)[[UIApplication sharedApplication] delegate];
     //this is the file we are opening
     //openedUrl = appDelegate.openedUrl;
@@ -3829,10 +3829,12 @@ titleForDeleteConfirmationButtonForRowAtIndexPath:(NSIndexPath *)indexPath {
                     NSRange lastsquiggle = [projects rangeOfString:@"~-~" options:NSBackwardsSearch];
                 
                 
-                if ([projects rangeOfString:@"~"].location == NSNotFound) {
+                if ([projects rangeOfString:@"~-~"].location != NSNotFound) {
+                    NSLog(@"here");
                     nextElements = [[projects substringToIndex:lastsquiggle.location] componentsSeparatedByString:@"~-~"];  
                 } else {
                     nextElements = [[NSArray alloc] init];
+                    NSLog(@"here2");
                 }
            
                 
@@ -3879,6 +3881,7 @@ titleForDeleteConfirmationButtonForRowAtIndexPath:(NSIndexPath *)indexPath {
             RootViewController *listView = [[RootViewController alloc] init];
            
             listView.elementsArray = nextElements;
+            NSLog(@"nextElements: %@", nextElements);
             listView.finalProjectsStr = finalProjectsStr;
             listView.workGroupsArray = workGroupsArray;
             listView.allProjects = allProjects;
